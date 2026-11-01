@@ -1,0 +1,8 @@
+Launcher Hogwarts para Google TV (TCL P755)
+
+Como compilar (pelo navegador, sem instalar programa):
+1. Crie uma conta gratuita em github.com e um repositório novo (público ou privado).
+2. Em "Add file > Upload files", arraste TODO o conteúdo desta pasta (inclusive a pasta .github).
+3. Clique em "Commit changes". Vá na aba "Actions": o app é compilado sozinho em alguns minutos.
+4. Abra a execução concluída (check verde) e baixe "hogwarts-launcher-apk" no fim da página.
+5. Extraia o zip baixado: dentro está o app-debug.apk. Envie para a TV e instale.
